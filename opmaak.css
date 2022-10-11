@@ -18,7 +18,17 @@ li a {
     text-decoration: double;
 }
 
-/* Change the link color to #111 (black) on hover */
+
 li a:hover {
-    background-color: rgb(252, 248, 248);
+     background-color: rgb(177, 254, 10);
+}
+
+body {
+    background-color: khaki;
+
+}
+
+#body1 {
+
+  background-color: paleturquoise;
 }
